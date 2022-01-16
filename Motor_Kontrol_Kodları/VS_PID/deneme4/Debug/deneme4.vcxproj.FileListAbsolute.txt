@@ -1,0 +1,9 @@
+C:\Users\Berkay\source\repos\deneme4\deneme4\Debug\deneme4.vcxprojAssemblyReference.cache
+C:\Users\Berkay\source\repos\deneme4\deneme4\Debug\deneme4.MyForm.resources
+C:\Users\Berkay\source\repos\deneme4\deneme4\Debug\deneme4.vcxproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\Elektronik\EEM SENE 4 DÖNEM 2\sayısal kontrol\Rapor\VS_PID\deneme4\Debug\deneme4.vcxprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Elektronik\EEM SENE 4 DÖNEM 2\sayısal kontrol\Rapor\VS_PID\deneme4\Debug\deneme4.MyForm.resources
+C:\Users\Berkay\Desktop\Elektronik\EEM SENE 4 DÖNEM 2\sayısal kontrol\Rapor\VS_PID\deneme4\Debug\deneme4.vcxproj.GenerateResource.cache
+C:\Users\Berkay\Desktop\Proje\Rapor\VS_PID\deneme4\Debug\deneme4.vcxprojAssemblyReference.cache
+C:\Users\Berkay\Desktop\Proje\Rapor\VS_PID\deneme4\Debug\deneme4.MyForm.resources
+C:\Users\Berkay\Desktop\Proje\Rapor\VS_PID\deneme4\Debug\deneme4.vcxproj.GenerateResource.cache
